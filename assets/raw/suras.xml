@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quran>
+    <sura>
+        <id>1</id>
+        
+        <chapter>Al Fatiha (L'ouverture)</chapter>
+        <verse>7</verse>
+        <duration>1:01</duration>
+    </sura>
+	<sura>
+        <id>2</id>
+       
+        <chapter>Al Baqara (La vache)</chapter>
+        <verse>286</verse>
+        <duration>2:20:32</duration>
+    </sura>
+	<sura>
+        <id>3</id>
+        
+        <chapter>Al 'Imran (La famille d'Imran)</chapter>
+        <verse>200</verse>
+        <duration>1:18:52</duration>
+    </sura>
+	<sura>
+        <id>4</id>
+        
+        <chapter>An-Nisa (Les femmes)</chapter>
+        <verse>176</verse>
+        <duration>1:20:45</duration>
+    </sura>
+	<sura>
+        <id>5</id>
+        
+        <chapter>Al Ma-ida (La table servie)</chapter>
+        <verse>120</verse>
+        <duration>1:06:24</duration>
+    </sura>
+	<sura>
+        <id>6</id>
+        
+        <chapter>Al An'am (Les bestiaux)</chapter>
+        <verse>165</verse>
+        <duration>1:11:03</duration>
+    </sura>
+	<sura>
+        <id>7</id>
+        
+        <chapter>Al A'raf (Le mur d'A'raf)</chapter>
+        <verse>206</verse>
+        <duration>1:17:25</duration>
+    </sura>
+	<sura>
+        <id>8</id>
+        
+        <chapter>Al Anfal (Le butin)</chapter>
+        <verse>75</verse>
+        <duration>28:29</duration>
+    </sura>
+	<sura>
+        <id>9</id>
+        
+        <chapter>At-Tawba (Le repentir)</chapter>
+        <verse>129</verse>
+        <duration>56:06</duration>
+    </sura>
+	<sura>
+        <id>10</id>
+        
+        <chapter>Yunus (Jonas)</chapter>
+        <verse>109</verse>
+        <duration>41:09</duration>
+    </sura>
+	<sura>
+        <id>11</id>
+       
+        <chapter>Hud</chapter>
+        <verse>123</verse>
+        <duration>44:17</duration>
+    </sura>
+	<sura>
+        <id>12</id>
+        
+        <chapter>Yusuf (Joseph)</chapter>
+        <verse>111</verse>
+        <duration>39:41</duration>
+    </sura>
+	<sura>
+        <id>13</id>
+        
+        <chapter>Ar-Ra'd (Le tonnerre)</chapter>
+        <verse>43</verse>
+        <duration>19:09</duration>
+    </sura>
+	<sura>
+        <id>14</id>
+       
+        <chapter>Ibrahim (Abraham)</chapter>
+        <verse>52</verse>
+        <duration>19:01</duration>
+    </sura>
+	<sura>
+        <id>15</id>
+        
+        <chapter>Al Hijr</chapter>
+        <verse>99</verse>
+        <duration>15:51</duration>
+    </sura>
+	<sura>
+        <id>16</id>
+        
+        <chapter>An-Nahl (Les abeilles)</chapter>
+        <verse>128</verse>
+        <duration>40:11</duration>
+    </sura>
+	<sura>
+        <id>17</id>
+        
+        <chapter>Al Isra (Le voyage nocturne)</chapter>
+        <verse>111</verse>
+        <duration>30:11</duration>
+    </sura>
+	<sura>
+        <id>18</id>
+        
+        <chapter>Al Kahf (La caverne)</chapter>
+        <verse>110</verse>
+        <duration>31:39</duration>
+    </sura>
+	<sura>
+        <id>19</id>
+        
+        <chapter>Maryam (Marie)</chapter>
+        <verse>98</verse>
+        <duration>18:19</duration>
+    </sura>
+	<sura>
+        <id>20</id>
+        
+        <chapter>Ta-Ha</chapter>
+        <verse>135</verse>
+        <duration>28:42</duration>
+    </sura>
+	<sura>
+        <id>21</id>
+       
+        <chapter>Al Anbya (Les prophètes)</chapter>
+        <verse>112</verse>
+        <duration>26:32</duration>
+    </sura>
+	<sura>
+        <id>22</id>
+        
+        <chapter>Al Hajj (Le pélerinage)</chapter>
+        <verse>78</verse>
+        <duration>27:59</duration>
+    </sura>
+	<sura>
+        <id>23</id>
+        
+        <chapter>Al Muminoon (Les croyants)</chapter>
+        <verse>118</verse>
+        <duration>23:57</duration>
+    </sura>
+	<sura>
+        <id>24</id>
+        
+        <chapter>An-Noor (La lumière)</chapter>
+        <verse>64</verse>
+        <duration>29:46</duration>
+    </sura>
+	<sura>
+        <id>25</id>
+        
+        <chapter>Al Furqan (Le discernement)</chapter>
+        <verse>77</verse>
+        <duration>18:14</duration>
+    </sura>
+	<sura>
+        <id>26</id>
+        
+        <chapter>Ash-Shu'ara (Les poètes)</chapter>
+        <verse>227</verse>
+        <duration>32:52</duration>
+    </sura>
+	<sura>
+        <id>27</id>
+        
+        <chapter>An-Naml (Les fourmis)</chapter>
+        <verse>93</verse>
+        <duration>24:49</duration>
+    </sura>
+	<sura>
+        <id>28</id>
+        
+        <chapter>Al Qasas (Le récit)</chapter>
+        <verse>88</verse>
+        <duration>33:57</duration>
+    </sura>
+	<sura>
+        <id>29</id>
+        
+        <chapter>Al 'Ankabut (L'araignée)</chapter>
+        <verse>69</verse>
+        <duration>23:15</duration>
+    </sura>
+	<sura>
+        <id>30</id>
+       
+        <chapter>Ar-Rum (Les romains)</chapter>
+        <verse>60</verse>
+        <duration>19:57</duration>
+    </sura>
+	<sura>
+        <id>31</id>
+       
+        <chapter>Luqman</chapter>
+        <verse>34</verse>
+        <duration>11:54</duration>
+    </sura>
+	<sura>
+        <id>32</id>
+        
+        <chapter>As-Sajda (La prosternation)</chapter>
+        <verse>30</verse>
+        <duration>9:05</duration>
+    </sura>
+	<sura>
+        <id>33</id>
+        
+        <chapter>Al Ahzab (Les coalisés)</chapter>
+        <verse>73</verse>
+        <duration>29:35</duration>
+    </sura>
+	<sura>
+        <id>34</id>
+        
+        <chapter>Saba</chapter>
+        <verse>54</verse>
+        <duration>19:04</duration>
+    </sura>
+	<sura>
+        <id>35</id>
+        
+        <chapter>Al Fatir (Le Créateur)</chapter>
+        <verse>45</verse>
+        <duration>17:18</duration>
+    </sura>
+	<sura>
+        <id>36</id>
+        
+        <chapter>Ya-Sin</chapter>
+        <verse>83</verse>
+        <duration>17:39</duration>
+    </sura>
+	<sura>
+        <id>37</id>
+        
+        <chapter>As-Saffat (Les rangés)</chapter>
+        <verse>182</verse>
+        <duration>24:14</duration>
+    </sura>
+	<sura>
+        <id>38</id>
+       
+        <chapter>Sad</chapter>
+        <verse>88</verse>
+        <duration>17:53</duration>
+    </sura>
+	<sura>
+        <id>39</id>
+        
+        <chapter>Az-Zoumar (Les groupes)</chapter>
+        <verse>75</verse>
+        <duration>27:17</duration>
+    </sura>
+	<sura>
+        <id>40</id>
+        
+        <chapter>Al Ghafir (Le Pardonneur)</chapter>
+        <verse>85</verse>
+        <duration>27:30</duration>
+    </sura>
+	<sura>
+        <id>41</id>
+        
+        <chapter>Fussilat (Les versets détaillés)</chapter>
+        <verse>54</verse>
+        <duration>19:38</duration>
+    </sura>
+	<sura>
+        <id>42</id>
+        
+        <chapter>Ash-Shura (La consultation)</chapter>
+        <verse>53</verse>
+        <duration>21:14</duration>
+    </sura>
+	<sura>
+        <id>43</id>
+        
+        <chapter>Az-Zukhruf (L'ornement)</chapter>
+        <verse>89</verse>
+        <duration>21:49</duration>
+    </sura>
+	<sura>
+        <id>44</id>
+        
+        <chapter>Ad-Dukhan (La fumée)</chapter>
+        <verse>59</verse>
+        <duration>9:46</duration>
+    </sura>
+	<sura>
+        <id>45</id>
+        
+        <chapter>Al Jathiya (L'agenouillée)</chapter>
+        <verse>37</verse>
+        <duration>11:39</duration>
+    </sura>
+	<sura>
+        <id>46</id>
+        
+        <chapter>Al Ahqaf</chapter>
+        <verse>35</verse>
+        <duration>15:56</duration>
+    </sura>
+	<sura>
+        <id>47</id>
+        
+        <chapter>Muhammad</chapter>
+        <verse>38</verse>
+        <duration>12:55</duration>
+    </sura>
+	<sura>
+        <id>48</id>
+        
+        <chapter>Al Fath (La victoire éclatante)</chapter>
+        <verse>29</verse>
+        <duration>12:09</duration>
+    </sura>
+	<sura>
+        <id>49</id>
+        
+        <chapter>Al Hujurat (Les appartements)</chapter>
+        <verse>18</verse>
+        <duration>8:47</duration>
+    </sura>
+	<sura>
+        <id>50</id>
+        
+        <chapter>Qaf</chapter>
+        <verse>45</verse>
+        <duration>8:25</duration>
+    </sura>
+	<sura>
+        <id>51</id>
+        
+        <chapter>Ath-Thariyat (Qui éparpillent)</chapter>
+        <verse>60</verse>
+        <duration>8:55</duration>
+    </sura>
+	<sura>
+        <id>52</id>
+        
+        <chapter>At-Tur</chapter>
+        <verse>49</verse>
+        <duration>7:56</duration>
+    </sura>
+	<sura>
+        <id>53</id>
+        
+        <chapter>An-Najm (L'étoile)</chapter>
+        <verse>62</verse>
+        <duration>8:38</duration>
+    </sura>
+	<sura>
+        <id>54</id>
+        
+        <chapter>Al Qamar (La lune)</chapter>
+        <verse>55</verse>
+        <duration>8:35</duration>
+    </sura>
+	<sura>
+        <id>55</id>
+        
+        <chapter>Ar-Rahman (Le Miséricordieux)</chapter>
+        <verse>78</verse>
+        <duration>12:06</duration>
+    </sura>
+	<sura>
+        <id>56</id>
+        
+        <chapter>Al Waqi'a (L'évènement)</chapter>
+        <verse>96</verse>
+        <duration>12:02</duration>
+    </sura>
+	<sura>
+        <id>57</id>
+        
+        <chapter>Al Hadid (Le fer)</chapter>
+        <verse>29</verse>
+        <duration>13:31</duration>
+    </sura>
+	<sura>
+        <id>58</id>
+        
+        <chapter>Al Mujadala (La discussion)</chapter>
+        <verse>22</verse>
+        <duration>11:19</duration>
+    </sura>
+	<sura>
+        <id>59</id>
+        
+        <chapter>Al Hashr (L'exode)</chapter>
+        <verse>24</verse>
+        <duration>10:56</duration>
+    </sura>
+	<sura>
+        <id>60</id>
+        
+        <chapter>Al Mumtahana (L'éprouvée)</chapter>
+        <verse>13</verse>
+        <duration>8:52</duration>
+    </sura>
+	
+    <sura>
+        <id>61</id>
+        
+        <chapter>As-Saff (Les rangs)</chapter>
+        <verse>14</verse>
+        <duration>5:17</duration>
+    </sura>
+    <sura>
+        <id>62</id>
+       
+        <chapter>Al Jumu'a (Le vendredi)</chapter>
+        <verse>11</verse>
+        <duration>4:28</duration>
+    </sura>
+    <sura>
+        <id>63</id>
+        
+        <chapter>Al Munafiqoon (Les hypocrites)</chapter>
+        <verse>11</verse>
+        <duration>4:47</duration>
+    </sura>
+    <sura>
+        <id>64</id>
+        
+        <chapter>At-Taghabun (La grande perte)</chapter>
+        <verse>18</verse>
+        <duration>6:09</duration>
+    </sura>
+	<sura>
+        <id>65</id>
+        
+        <chapter>At-Talaq (Le divorce)</chapter>
+        <verse>12</verse>
+        <duration>7:25</duration>
+    </sura>
+	<sura>
+        <id>66</id>
+        
+        <chapter>At-Tahrim (L'interdiction)</chapter>
+        <verse>12</verse>
+        <duration>6:51</duration>
+    </sura>
+	<sura>
+        <id>67</id>
+        
+        <chapter>Al Mulk (La royauté)</chapter>
+        <verse>30</verse>
+        <duration>8:21</duration>
+    </sura>
+	<sura>
+        <id>68</id>
+        
+        <chapter>Al Qalam (La plume)</chapter>
+        <verse>52</verse>
+        <duration>8:18</duration>
+    </sura>
+	<sura>
+        <id>69</id>
+        
+        <chapter>Al Haqqa (Celle qui montre la vérité)</chapter>
+        <verse>52</verse>
+        <duration>6:50</duration>
+    </sura>
+	
+    <sura>
+        <id>70</id>
+        
+        <chapter>Al Ma'arij (Les voies d'ascension)</chapter>
+        <verse>44</verse>
+        <duration>5:42</duration>
+    </sura>
+    <sura>
+        <id>71</id>
+        
+        <chapter>Nuh (Noé)</chapter>
+        <verse>28</verse>
+        <duration>5:17</duration>
+    </sura>
+    <sura>
+        <id>72</id>
+       
+        <chapter>Al Jinn (Les djinns)</chapter>
+        <verse>28</verse>
+        <duration>6:05</duration>
+    </sura>
+    <sura>
+        <id>73</id>
+       
+        <chapter>Al Muzzammil (L'enveloppé)</chapter>
+        <verse>20</verse>
+        <duration>4:38</duration>
+    </sura>
+    <sura>
+        <id>74</id>
+        
+        <chapter>Al Muddathir (Le revêtu d'un manteau)</chapter>
+        <verse>56</verse>
+        <duration>6:41</duration>
+    </sura>
+    <sura>
+        <id>75</id>
+        
+        <chapter>Al Qiyama (LA résurrection)</chapter>
+        <verse>40</verse>
+        <duration>3:55</duration>
+    </sura>
+    <sura>
+        <id>76</id>
+       
+        <chapter>Al Insan (L'homme)</chapter>
+        <verse>31</verse>
+        <duration>5:51</duration>
+    </sura>
+    <sura>
+        <id>77</id>
+        
+        <chapter>Al Mursalat (Les envoyés)</chapter>
+        <verse>50</verse>
+        <duration>5:21</duration>
+    </sura>
+    <sura>
+        <id>78</id>
+        
+        <chapter>An-Naba (La nouvelle)</chapter>
+        <verse>40</verse>
+        <duration>4:25</duration>
+    </sura>
+    <sura>
+        <id>79</id>
+       
+        <chapter>An-Nazi'at (Les anges qui arrachent les âmes)</chapter>
+        <verse>46</verse>
+        <duration>4:20</duration>
+    </sura>
+    <sura>
+        <id>80</id>
+        
+        <chapter>'Abasa (Il s'est renfrogné)</chapter>
+        <verse>42</verse>
+        <duration>3:46</duration>
+    </sura>
+    <sura>
+        <id>81</id>
+        
+        <chapter>At-Takweer (L'obscursissement)</chapter>
+        <verse>29</verse>
+        <duration>2:48</duration>
+    </sura>
+    <sura>
+        <id>82</id>
+       
+        <chapter>Al Infitar (La rupture)</chapter>
+        <verse>19</verse>
+        <duration>2:16</duration>
+    </sura>
+    <sura>
+        <id>83</id>
+        
+        <chapter>Al Mutaffifin (Les fraudeurs)</chapter>
+        <verse>36</verse>
+        <duration>5:02</duration>
+    </sura>
+    <sura>
+        <id>84</id>
+        
+        <chapter>Al Inshiqaq (La déchirure)</chapter>
+        <verse>25</verse>
+        <duration>2:46</duration>
+    </sura>
+    <sura>
+        <id>85</id>
+        
+        <chapter>Al Buruj (Les constellations)</chapter>
+        <verse>22</verse>
+        <duration>2:48</duration>
+    </sura>
+    <sura>
+        <id>86</id>
+       
+        <chapter>At-Tariq (L'astre nocturne)</chapter>
+        <verse>17</verse>
+        <duration>1:40</duration>
+    </sura>
+    <sura>
+        <id>87</id>
+        
+        <chapter>Al A'la (Le Très-Haut)</chapter>
+        <verse>19</verse>
+        <duration>1:49</duration>
+    </sura>
+    <sura>
+        <id>88</id>
+        
+        <chapter>Al Ghashiya (L'enveloppante)</chapter>
+        <verse>26</verse>
+        <duration>2:16</duration>
+    </sura>
+    <sura>
+        <id>89</id>
+        
+        <chapter>Al Fajr (L'aube)</chapter>
+        <verse>30</verse>
+        <duration>3:23</duration>
+    </sura>
+    <sura>
+        <id>90</id>
+       
+        <chapter>Al Balad (La cité)</chapter>
+        <verse>20</verse>
+        <duration>1:57</duration>
+    </sura>
+    <sura>
+        <id>91</id>
+       
+        <chapter>Ash-Shams (Le soleil)</chapter>
+        <verse>15</verse>
+        <duration>1:27</duration>
+    </sura>
+    <sura>
+        <id>92</id>
+        
+        <chapter>Al Layl (La nuit)</chapter>
+        <verse>21</verse>
+        <duration>1:52</duration>
+    </sura>
+    <sura>
+        <id>93</id>
+        
+        <chapter>Ad-Duha (Le jour montante)</chapter>
+        <verse>11</verse>
+        <duration>1:06</duration>
+    </sura>
+    <sura>
+        <id>94</id>
+       
+        <chapter>Ash-Sharh (L'ouverture)</chapter>
+        <verse>8</verse>
+        <duration>0:44</duration>
+    </sura>
+    <sura>
+        <id>95</id>
+       
+        <chapter>At-Teen (Le figuier)</chapter>
+        <verse>8</verse>
+        <duration>0:59</duration>
+    </sura>
+    <sura>
+        <id>96</id>
+        
+        <chapter>Al 'Alaq (L'adhérence)</chapter>
+        <verse>19</verse>
+        <duration>1:41</duration>
+    </sura>
+    <sura>
+        <id>97</id>
+        
+        <chapter>Al Qadr (La destinée)</chapter>
+        <verse>5</verse>
+        <duration>0:45</duration>
+    </sura>
+    <sura>
+        <id>98</id>
+        
+        <chapter>Al Bayyina (La preuve)</chapter>
+        <verse>8</verse>
+        <duration>2:08</duration>
+    </sura>
+    <sura>
+        <id>99</id>
+        
+        <chapter>Al Zalzala (La secousse)</chapter>
+        <verse>8</verse>
+        <duration>0:57</duration>
+    </sura>
+    <sura>
+        <id>100</id>
+     
+        <chapter>Al 'adiyat (Les coursiers)</chapter>
+        <verse>11</verse>
+        <duration>1:05</duration>
+    </sura>
+    <sura>
+        <id>101</id>
+       
+        <chapter>Al Qari'a (Le fracas)</chapter>
+        <verse>11</verse>
+        <duration>1:00</duration>
+    </sura>
+    <sura>
+        <id>102</id>
+        
+        <chapter>At-Takathur (La course aux richesses)</chapter>
+        <verse>8</verse>
+        <duration>0:55</duration>
+    </sura>
+    <sura>
+        <id>103</id>
+        
+        <chapter>Al 'Asr (Le temps)</chapter>
+        <verse>3</verse>
+        <duration>0:27</duration>
+    </sura>
+    <sura>
+        <id>104</id>
+        
+        <chapter>Al Humaza (Les calomniateurs)</chapter>
+        <verse>9</verse>
+        <duration>0:55</duration>
+    </sura>
+    <sura>
+        <id>105</id>
+        
+        <chapter>Al Fil (L'éléphant)</chapter>
+        <verse>5</verse>
+        <duration>0:41</duration>
+    </sura>
+    <sura>
+        <id>106</id>
+       
+        <chapter>Quraysh (Les Quraysh)</chapter>
+        <verse>4</verse>
+        <duration>0:39</duration>
+    </sura>
+    <sura>
+        <id>107</id>
+       
+        <chapter>Al Ma'un (L'ustensile)</chapter>
+        <verse>7</verse>
+        <duration>0:48</duration>
+    </sura>
+    <sura>
+        <id>108</id>
+       
+        <chapter>Al Kawthar (L'abondance)</chapter>
+        <verse>3</verse>
+        <duration>0:24</duration>
+    </sura>
+    <sura>
+        <id>109</id>
+        
+        <chapter>Al kafiroon (Les infidèles)</chapter>
+        <verse>6</verse>
+        <duration>0:52</duration>
+    </sura>
+    <sura>
+        <id>110</id>
+        
+        <chapter>An-Nasr (Le secours)</chapter>
+        <verse>3</verse>
+        <duration>0:33</duration>
+    </sura>
+    <sura>
+        <id>111</id>
+        
+        <chapter>Al Masad (Les fibres)</chapter>
+        <verse>5</verse>
+        <duration>0:38</duration>
+    </sura>
+    <sura>
+        <id>112</id>
+        
+        <chapter>Al Ikhlas (Le monothéisme pur)</chapter>
+        <verse>4</verse>
+        <duration>0:24</duration>
+    </sura>
+    <sura>
+        <id>113</id>
+       
+        <chapter>Al Falaq (L'aube naissante)</chapter>
+        <verse>5</verse>
+        <duration>0:34</duration>
+    </sura>
+    <sura>
+        <id>114</id>
+        
+        <chapter>An-Nas (Les gens)</chapter>
+        <verse>6</verse>
+        <duration>0:44</duration>
+    </sura>
+</quran>
